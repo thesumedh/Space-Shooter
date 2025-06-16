@@ -14,7 +14,6 @@ A simple 2D space shooter game built using Python and Pygame. Dodge enemies, col
 
 ## 📸 Screenshots
 
-*(Add your screenshots here, like images/menu.png, images/gameplay.png, images/gameover.png)*
 
 ## 🧰 Requirements
 
