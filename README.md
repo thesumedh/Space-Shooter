@@ -20,7 +20,7 @@ A simple 2D space shooter game built using Python and Pygame. Dodge enemies, col
 - Python 3.x
 - [Pygame](https://www.pygame.org/) library
 
-Install Pygame:
+Install Pygame and Run Game:
 
 ```bash
 pip install pygame
