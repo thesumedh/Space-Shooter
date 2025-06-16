@@ -24,3 +24,4 @@ Install Pygame:
 
 ```bash
 pip install pygame
+python space_shooter.py
